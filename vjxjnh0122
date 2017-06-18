@@ -1,0 +1,6 @@
+Generate a new wallet address
+
+Args:
+    None
+Returns:
+    (str) New wallet address in base58
